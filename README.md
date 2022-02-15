@@ -1,4 +1,5 @@
 ### Hi there 👋
+![tenor](https://user-images.githubusercontent.com/85873435/154036621-76fe7bb6-fe25-433c-9881-680cea76237d.gif)
 
 - 🎍 I’m currently working on ENS Resolving Names
 - 🎓 I’m currently learning web3.js and web3.py
@@ -9,3 +10,5 @@
 - Here is my best on CodeWars:
 
 ![image](https://user-images.githubusercontent.com/85873435/154036154-735ecb92-088a-4c5d-9dfe-10badae6f986.png)
+
+
