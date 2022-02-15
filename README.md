@@ -8,8 +8,6 @@
 - ⚡ Looking for Job: Solidity Middle Developer/Business Analyst/Consultant
 - 🎃 I was a: C# API Backend Software Developer & C++ Freelance Software Developer
 - Here is my best on CodeWars:
-
-![image](https://user-images.githubusercontent.com/85873435/154036154-735ecb92-088a-4c5d-9dfe-10badae6f986.png)
 ![image](https://user-images.githubusercontent.com/85873435/154037135-dedc4459-a82d-4b69-9de3-5c66d72e33d7.png)
 ![image](https://user-images.githubusercontent.com/85873435/154036991-38493667-98a5-4f2e-a0c0-1e3976ab67ab.png)
 
