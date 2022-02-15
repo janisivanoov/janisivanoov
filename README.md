@@ -11,5 +11,4 @@
 ![image](https://user-images.githubusercontent.com/85873435/154037135-dedc4459-a82d-4b69-9de3-5c66d72e33d7.png)
 ![image](https://user-images.githubusercontent.com/85873435/154036991-38493667-98a5-4f2e-a0c0-1e3976ab67ab.png)
 
-![tenor](https://user-images.githubusercontent.com/85873435/154036621-76fe7bb6-fe25-433c-9881-680cea76237d.gif)
 - Here is some repositories:
