@@ -6,3 +6,4 @@
 - 📫 How to reach me: ivanou.i@unic.ac.cy
 - ⚡ Looking for Job: Solidity Middle Developer/Business Analyst/Consultant
 - 🎃 I was a: C# API Backend Software Developer & C++ Freelance Software Developer
+- 🐚 Codewars: https://www.codewars.com/users/janisivanov
