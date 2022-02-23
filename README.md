@@ -7,6 +7,7 @@
 - 📫 How to reach me: ivanou.i@unic.ac.cy
 - ⚡ Looking for Job: Solidity Middle Developer/Business Analyst/Consultant
 - 🎃 I was a: C# API Backend Software Developer & C++ Freelance Software Developer
+- 👽 Programming Languages I'm familiar with: C\C++\C# , Solidity, JavaScript(Web3), Python(Web3), HTML\CSS
 - Here is my best on CodeWars:
 ![image](https://user-images.githubusercontent.com/85873435/154037135-dedc4459-a82d-4b69-9de3-5c66d72e33d7.png)
 ![image](https://user-images.githubusercontent.com/85873435/154036991-38493667-98a5-4f2e-a0c0-1e3976ab67ab.png)
