@@ -8,7 +8,7 @@
 - 🏃 Fun Fact: Participant of Google Kick Start since 2019
 - ⚡ Looking for Job: Solidity Middle Developer/Business Analyst/Consultant
 - 🎃 I was a: C# API Backend Software Developer & C++ Freelance Software Developer
-- 👽 Programming Languages I'm familiar with: C\C++\C# , Solidity, JavaScript(Web3), Python(Web3), HTML\CSS
+- 👽 Programming Languages I'm familiar with: C\C++\C# , Solidity, JavaScript(Web3), Python(Web3), HTML\CSS\JS
 - 💁 My LinkedIn: https://www.linkedin.com/in/ivan-ivanou-janis/
 - 👹 My best on CodeWars:
 
