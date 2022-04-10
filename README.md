@@ -2,12 +2,12 @@
 
 
 - 🎍 I’m currently working on ENS Resolving Names
-- 🎓 I’m currently learning web3.js and web3.py
-- 💬 Ask me about Blockchain or Solidity and I'll explain You everything
+- 🎓 I’m currently learning Java
+- 💬 Ask me about Developing Software and I'll explain everything to You!
 - 📫 How to reach me: ivanou.i@unic.ac.cy
-- 🏃 Fun Fact: Participant of Google Kick Start since 2019
-- ⚡ Looking for Job: Solidity Middle Developer/Business Analyst/Consultant
-- 🎃 I was a: C# API Backend Software Developer & C++ Freelance Software Developer
+- 🏃 Fun Fact: Participant of Google Kick Start since 2020 & Facebook Hacker Cup since 2020
+- ⚡ Looking for Job: Middle Software Developer
+- 🎃 I was a: C# API Backend Software Developer, C++ Freelance Software Developer & Web3 Software Developer
 - 👽 Programming Languages I'm familiar with: C\C++\C# , Solidity, JavaScript(Web3), Python(Web3), HTML\CSS\JS(front-end dev.)
 - 💁 My LinkedIn: https://www.linkedin.com/in/ivan-ivanou-janis/
 - 👹 My best on CodeWars:
