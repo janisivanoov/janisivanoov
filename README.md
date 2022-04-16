@@ -2,7 +2,7 @@
 
 
 - 🎍 I’m currently working on ENS Resolving Names
-- 🎓 I’m currently learning Java
+- 🎓 I’m currently learning Java & Node.js
 - 💬 Ask me about Developing Software and I'll explain everything to You!
 - 📫 How to reach me: ivanou.i@unic.ac.cy
 - 🏃 Fun Fact: Participant of Google Kick Start since 2020 & Facebook Hacker Cup since 2020
