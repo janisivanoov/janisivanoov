@@ -10,6 +10,7 @@
 - 🎃 I was a: C# API Backend Software Developer, C++ Freelance Software Developer & Web3 Software Developer
 - 👽 Programming Languages I'm familiar with: C\C++\C# , Solidity, JavaScript(Web3), Python(Web3), HTML\CSS\JS(front-end dev.)
 - 💁 My LinkedIn: https://www.linkedin.com/in/ivan-ivanou-janis/
+- 🌐 https://skyline.github.com/janisivanoov/2021
 - 👹 My best on CodeWars:
 
 ![image](https://user-images.githubusercontent.com/85873435/154037135-dedc4459-a82d-4b69-9de3-5c66d72e33d7.png)
