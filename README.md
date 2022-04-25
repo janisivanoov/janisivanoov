@@ -27,7 +27,6 @@
 - ⚡ Looking for Job: Middle Software Developer
 - 🎃 I was a: C# API Backend Software Developer, C++ Freelance Software Developer & Web3 Software Developer
 - 👽 Programming Languages I'm familiar with: C\C++\C# , Solidity, JavaScript(Web3), Python(Web3), HTML\CSS\JS(front-end dev.)
-- 💁 My LinkedIn: https://www.linkedin.com/in/ivan-ivanou-janis/
 - :octocat: GitHub Contributions: https://skyline.github.com/janisivanoov/2022
 - 👹 My best on CodeWars:
 
