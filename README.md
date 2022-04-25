@@ -1,4 +1,4 @@
-## <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> Hi / Hola there! My name is Ivan Ivanou and welcome to my GitHub profile!
+## <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> 
 
 <pre>
       ___           ___           ___       ___       ___     
