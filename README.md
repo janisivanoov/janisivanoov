@@ -17,7 +17,7 @@
 ![image](https://user-images.githubusercontent.com/85873435/154037135-dedc4459-a82d-4b69-9de3-5c66d72e33d7.png)
 ![image](https://user-images.githubusercontent.com/85873435/154036991-38493667-98a5-4f2e-a0c0-1e3976ab67ab.png)
 
-## :game_die: Join my community Connect Four game!
+## :game_die: Join community Connect Four game!
 ![](https://img.shields.io/badge/Moves%20played-5006-blue)
 ![](https://img.shields.io/badge/Completed%20games-285-brightgreen)
 ![](https://img.shields.io/badge/Total%20players-891-orange)
