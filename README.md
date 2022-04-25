@@ -1,6 +1,6 @@
 ### Hi/Hola there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ivanou Ivan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-ivanou-janis/)](https://www.linkedin.com/in/ivan-ivanou-janis/)
+[![Linkedin Badge](https://img.shields.io/badge/-IvanouIvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-ivanou-janis/)](https://www.linkedin.com/in/ivan-ivanou-janis/)
 
 - 🎍 I’m currently working on ENS Resolving Names
 - 🎓 I’m currently learning Java & Node.js
