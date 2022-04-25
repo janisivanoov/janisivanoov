@@ -1,4 +1,4 @@
-## 👋 Hi / Hola there! My name is Ivan Ivanou and welcome to my GitHub profile!
+## <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> Hi / Hola there! My name is Ivan Ivanou and welcome to my GitHub profile!
 
 [![Linkedin Badge](https://img.shields.io/badge/-IvanouIvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-ivanou-janis/)](https://www.linkedin.com/in/ivan-ivanou-janis/)
 
