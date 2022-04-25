@@ -1,4 +1,4 @@
-### Hi/Hola there 👋
+[<img src="https://raw.githubusercontent.com/janisivanoov/janisivanoov/master/intro.gif" alt="👋 Hi there! I'm Ivanou Ivan" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-IvanouIvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-ivanou-janis/)](https://www.linkedin.com/in/ivan-ivanou-janis/)
 
