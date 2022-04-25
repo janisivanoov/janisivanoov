@@ -24,7 +24,7 @@
 
 Everyone is welcome to participate! To make a move, click on the **column number** you wish to drop your disk in.
 
-Game over, the red team has won! [Click here to start a new game!](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cnew&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
+Game over, the red team has won! [Click here to start a new game!](https://github.com/janisivanoov/janisivanoov/issues/new?title=connect4%7Cnew&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
 
 |1|2|3|4|5|6|7|
 | - | - | - | - | - | - | - |
