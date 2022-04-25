@@ -52,7 +52,7 @@ Game over, the red team has won! [Click here to start a new game!](https://githu
 |![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|
 |![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|
 
-### 🔨Technologies
+###🔨Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
