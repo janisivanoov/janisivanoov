@@ -1,4 +1,4 @@
-## <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> Hi / Hola there & Welcome to my GitHub profile!
+## <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> Hi / Hola there & Welcome to my GitHub profile !
 
 <pre>
       ___           ___           ___       ___       ___     
