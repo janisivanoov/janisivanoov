@@ -56,17 +56,15 @@ Game over, the red team has won! [Click here to start a new game!](https://githu
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janisivanoov&theme=dark)](https://git.io/streak-stats)
 
 
-<details>
-<summary>Click for Some Technologies </summary>
-<p align="center">
-      ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-      ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-      ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-      ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-      ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-      ![React](https://img.shields.io/badge/-React-000?&logo=React)
-</p>
-</detail>
+
+### 🛠 Some Technologies I Use
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+
 
 
 
