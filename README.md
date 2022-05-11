@@ -50,8 +50,14 @@ Game over, the red team has won! [Click here to start a new game!](https://githu
 |![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|
 |![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|
 
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=janisivanoov&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janisivanoov&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janisivanoov&theme=dark)](https://git.io/streak-stats)
+
+
 <details>
-### <summary>Click for Some Technologies </summary>
+<summary>Click for Some Technologies </summary>
 <p align="center">
       ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
       ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -64,9 +70,5 @@ Game over, the red team has won! [Click here to start a new game!](https://githu
 
 
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=janisivanoov&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janisivanoov&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janisivanoov&theme=dark)](https://git.io/streak-stats)
 
 
