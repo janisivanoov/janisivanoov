@@ -57,7 +57,7 @@ Game over, the red team has won! [Click here to start a new game!](https://githu
 
 
 
-### 🛠 Some Technologies I Use
+### 🛠 Some Technologies I'm Using
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
