@@ -18,8 +18,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-IvanouIvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-ivanou-janis/)](https://www.linkedin.com/in/ivan-ivanou-janis/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iivanou1208@gmail.com)](mailto:iivanou1208@gmail.com)
 
 ### 🚶 About Me:
-- 🎍 I’m currently working on Meta Transactions
-- 🎓 I’m currently learning Haskell
+- 🎍 I’m currently working on MongoDB & Node.js
+- 🎓 I’m currently learning Kotlin
 - 💬 Ask me about Developing Software and I'll explain everything to You!
 - 📫 How to reach me: ivanou.i@unic.ac.cy
 - 🏃 Fun Fact: Participant of Google Kick Start since 2020 & Facebook Hacker Cup since 2020
