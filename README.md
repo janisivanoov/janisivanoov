@@ -17,6 +17,20 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-IvanouIvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-ivanou-janis/)](https://www.linkedin.com/in/ivan-ivanou-janis/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iivanou1208@gmail.com)](mailto:iivanou1208@gmail.com)
 
+<details>
+  <summary>
+    <b>🚶 About Me</b>
+  </summary>
+- 🎍 I’m currently working with MongoDB + Node.js & AWS 
+- 🎓 I’m currently working as a Freelancer on position Middle Software Developer & DevOps Engineer on <a href="https://www.upwork.com/freelancers/~01c4eca190f5879547?s=1044578476142100493">Upwork</a>
+- 💬 Ask me about Developing Software and I'll explain everything to You!
+- 📫 How to reach me: ivanou.i@unic.ac.cy
+- 🏃 Fun Fact: Participant of Google Kick Start since 2020 & Facebook Hacker Cup since 2020
+- ⚡ Looking for Job: Middle Software Developer
+- 🎃 I was a: C# API Backend Software Developer, C++ Freelance Software Developer & Web3 Software Developer
+- 👽 Programming Languages I'm familiar with: C\C++\C# , Solidity, JavaScript(Web3), Python(Web3), HTML\CSS\JS(front-end dev.)
+- :octocat: GitHub Contributions: https://skyline.github.com/janisivanoov/2022
+</details>
 ### 🚶 About Me:
 - 🎍 I’m currently working with MongoDB + Node.js & AWS 
 - 🎓 I’m currently working as a Freelancer on position Middle Software Developer & DevOps Engineer on <a href="https://www.upwork.com/freelancers/~01c4eca190f5879547?s=1044578476142100493">Upwork</a>
@@ -68,14 +82,6 @@ Game over, the red team has won! [Click here to start a new game!](https://githu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janisivanoov&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janisivanoov&theme=dark)](https://git.io/streak-stats)
 
-<details>
-  <summary>
-    <b>Wakatime Stats</b>
-  </summary>
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=janisivanoov&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janisivanoov&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janisivanoov&theme=dark)](https://git.io/streak-stats)
-</details>
 <details>
   <summary>
     <b>Contribution Graph</b>
