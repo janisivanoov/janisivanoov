@@ -21,7 +21,7 @@
   <summary>
     <b>🚶 About Me</b>
   </summary>
-[Screenshot 2022-08-18 231132](https://user-images.githubusercontent.com/85873435/185485804-c8139d17-6e49-4497-a85b-0ba33d72a82a.png)
+<a href="https://github-readme-stats.vercel.app/api?username=janisivanoov&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true"></a>
 </details>
 
 ### 🚶 About Me:
