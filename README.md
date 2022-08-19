@@ -17,13 +17,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-IvanouIvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-ivanou-janis/)](https://www.linkedin.com/in/ivan-ivanou-janis/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iivanou1208@gmail.com)](mailto:iivanou1208@gmail.com)
 
-<details>
-  <summary>
-    <b>🚶 About Me</b>
-  </summary>
-<a href="https://github-readme-stats.vercel.app/api?username=janisivanoov&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true"></a>
-</details>
-
 ### 🚶 About Me:
 - 🎍 I’m currently working with MongoDB + Node.js & AWS 
 - 🎓 I’m currently working as a Freelancer on position Middle Software Developer & DevOps Engineer on <a href="https://www.upwork.com/freelancers/~01c4eca190f5879547?s=1044578476142100493">Upwork</a>
