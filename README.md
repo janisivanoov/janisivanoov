@@ -31,6 +31,7 @@
 - 👽 Programming Languages I'm familiar with: C\C++\C# , Solidity, JavaScript(Web3), Python(Web3), HTML\CSS\JS(front-end dev.)
 - :octocat: GitHub Contributions: https://skyline.github.com/janisivanoov/2022
 </details>
+
 ### 🚶 About Me:
 - 🎍 I’m currently working with MongoDB + Node.js & AWS 
 - 🎓 I’m currently working as a Freelancer on position Middle Software Developer & DevOps Engineer on <a href="https://www.upwork.com/freelancers/~01c4eca190f5879547?s=1044578476142100493">Upwork</a>
