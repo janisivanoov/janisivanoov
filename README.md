@@ -21,15 +21,15 @@
   <summary>
     <b>🚶 About Me</b>
   </summary>
-- 🎍 I’m currently working with MongoDB + Node.js & AWS 
-- 🎓 I’m currently working as a Freelancer on position Middle Software Developer & DevOps Engineer on <a href="https://www.upwork.com/freelancers/~01c4eca190f5879547?s=1044578476142100493">Upwork</a>
-- 💬 Ask me about Developing Software and I'll explain everything to You!
-- 📫 How to reach me: ivanou.i@unic.ac.cy
-- 🏃 Fun Fact: Participant of Google Kick Start since 2020 & Facebook Hacker Cup since 2020
-- ⚡ Looking for Job: Middle Software Developer
-- 🎃 I was a: C# API Backend Software Developer, C++ Freelance Software Developer & Web3 Software Developer
-- 👽 Programming Languages I'm familiar with: C\C++\C# , Solidity, JavaScript(Web3), Python(Web3), HTML\CSS\JS(front-end dev.)
-- :octocat: GitHub Contributions: https://skyline.github.com/janisivanoov/2022
+🎍 I’m currently working with MongoDB + Node.js & AWS 
+🎓 I’m currently working as a Freelancer on position Middle Software Developer & DevOps Engineer on <a href="https://www.upwork.com/freelancers/~01c4eca190f5879547?s=1044578476142100493">Upwork</a>
+💬 Ask me about Developing Software and I'll explain everything to You!
+📫 How to reach me: ivanou.i@unic.ac.cy
+🏃 Fun Fact: Participant of Google Kick Start since 2020 & Facebook Hacker Cup since 2020
+⚡ Looking for Job: Middle Software Developer
+🎃 I was a: C# API Backend Software Developer, C++ Freelance Software Developer & Web3 Software Developer
+👽 Programming Languages I'm familiar with: C\C++\C# , Solidity, JavaScript(Web3), Python(Web3), HTML\CSS\JS(front-end dev.)
+:octocat: GitHub Contributions: https://skyline.github.com/janisivanoov/2022
 </details>
 
 ### 🚶 About Me:
