@@ -67,3 +67,16 @@ Game over, the red team has won! [Click here to start a new game!](https://githu
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=janisivanoov&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janisivanoov&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janisivanoov&theme=dark)](https://git.io/streak-stats)
+
+<details>
+  <summary>
+    <b>Wakatime Stats</b>
+  </summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=janisivanoov&layout=compact&theme=react&title_color=dd58c1&custom_title=My%20Wakatime%20Stats"/></a>
+</details>
+<details>
+  <summary>
+    <b>Contribution Graph</b>
+  </summary>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=janisivanoov&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=dd58c1"/></a>
+</details>
