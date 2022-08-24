@@ -27,6 +27,7 @@
 - 🎃 I was a: C# API Backend Software Developer, C++ Freelance Software Developer & Web3 Software Developer
 - 👽 Programming Languages I'm familiar with: C\C++\C# , Solidity, JavaScript(Web3), Python(Web3), HTML\CSS\JS(front-end dev.)
 - :octocat: GitHub Contributions: https://skyline.github.com/janisivanoov/2022
+- :cat: My<a href="https://aws-emergingtalent.influitive.com/profiles/5a84b765-28f6-420b-b099-2d15430d7511"> AWS Emerging Talent Community Profile </a>
 - 👹 My best on CodeWars:
 
 ![image](https://user-images.githubusercontent.com/85873435/154037135-dedc4459-a82d-4b69-9de3-5c66d72e33d7.png)
