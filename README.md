@@ -21,7 +21,7 @@
 - 🎍 I’m currently working with MongoDB + Node.js & AWS 
 - 🎓 I’m currently working as a Freelancer on position Middle Software Developer & DevOps Engineer on <a href="https://www.upwork.com/freelancers/~01c4eca190f5879547?s=1044578476142100493">Upwork</a>
 - 💬 Ask me about Developing Software and I'll explain everything to You!
-- 📫 How to reach me: ivanou.i@unic.ac.cy
+- 📫 How to reach me: ivanou.i@unic.ac.cy OR iivanou@inbox.lv
 - 🏃 Fun Fact: Participant of Google Kick Start since 2020 & Facebook Hacker Cup since 2020
 - ⚡ Looking for Job: Middle Software Developer
 - 🎃 I was a: C# API Backend Software Developer, C++ Freelance Software Developer & Web3 Software Developer
