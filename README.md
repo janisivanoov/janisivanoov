@@ -34,7 +34,6 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 ## :game_die: Join community Connect Four game!
 ![](https://img.shields.io/badge/Moves%20played-5006-blue)
