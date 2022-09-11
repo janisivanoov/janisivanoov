@@ -15,7 +15,7 @@
      
 </pre>
 
-![CodeWars Badge](https://www.codewars.com/users/janisivanoov/badges/small) [![Linkedin Badge](https://img.shields.io/badge/-IvanouIvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-ivanou-janis/)](https://www.linkedin.com/in/ivan-ivanou-janis/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iivanou1208@gmail.com)](mailto:iivanou1208@gmail.com) 
+![CodeWars Badge](https://www.codewars.com/users/g964/badges/micro) [![Linkedin Badge](https://img.shields.io/badge/-IvanouIvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-ivanou-janis/)](https://www.linkedin.com/in/ivan-ivanou-janis/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iivanou1208@gmail.com)](mailto:iivanou1208@gmail.com) 
 
 ### 🚶 About Me:
 - 🎍 I’m currently working with MongoDB + Node.js & AWS 
