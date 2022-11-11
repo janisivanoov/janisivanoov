@@ -18,7 +18,7 @@
 ![CodeWars Badge](https://www.codewars.com/users/g964/badges/micro) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-ivanou-janis/)](https://www.linkedin.com/in/ivan-ivanou-janis/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iivanou1208@gmail.com)](mailto:iivanou1208@gmail.com) 
 
 ### 🚶 About Me:
-- 🎍 I’m currently working with MongoDB + Node.js & AWS 
+- 🎍 I’m currently working with Angular.js
 - 🎓 I’m currently working as a Freelancer on position Senior Software Developer & DevOps Engineer on <a href="https://www.upwork.com/freelancers/~01c4eca190f5879547?s=1044578476142100493">Upwork</a> & TeamLeader in Ton.org 
 - 💬 Ask me about Developing Software and I'll explain everything to You!
 - 📫 How to reach me: ivanou.i@unic.ac.cy OR iivanou@inbox.lv
