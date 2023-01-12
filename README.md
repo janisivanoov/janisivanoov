@@ -19,12 +19,12 @@
 
 ### 🚶 About Me:
 - 🎍 I’m currently working with Angular.js
-- 🎓 I’m currently working as a Freelancer on position Senior Software Developer & DevOps Engineer on <a href="https://www.upwork.com/freelancers/~01c4eca190f5879547?s=1044578476142100493">Upwork</a> & TeamLeader in Ton.org 
+- 🎓 I’m currently working as a Part Time Senior Software Developer & DevOps Engineer in CyberWeb & SCADA Engineer in Olimps.lv
 - 💬 Ask me about Developing Software and I'll explain everything to You!
-- 📫 How to reach me: ivanou.i@unic.ac.cy OR iivanou@inbox.lv
+- 📫 How to reach me: iivanou1208@gmail.com OR iivanou@inbox.lv
 - 🏃 Fun Fact: Participant of Google Kick Start since 2020 & Facebook Hacker Cup since 2020
 - ⚡ Looking for Job: Middle++/Senior Software Developer
-- 🎃 I was a: C# API Backend Software Developer, C++ Freelance Software Developer & Web3 Software Developer, Middle Software Developer
+- 🎃 I was a: C# API Backend Software Developer, C++ Freelance Software Developer & Web3 Software Developer, Middle/Senior Software Develope & Team Leader
 - :octocat: GitHub Contributions: https://skyline.github.com/janisivanoov/2022
 - 👽 My<a href="https://aws-emergingtalent.influitive.com/profiles/5a84b765-28f6-420b-b099-2d15430d7511"> AWS Emerging Talent Community Profile</a>, <a href="https://www.upwork.com/freelancers/~01c4eca190f5879547">Upwork profile</a>, <a href="https://freelancehunt.com/applicant/y6BAx.html">Freelancehunt</a>, <a href="https://www.codewars.com/users/janisivanoov"> CodeWars </a>
 
