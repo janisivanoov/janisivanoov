@@ -19,7 +19,7 @@
 
 ### 🚶 About Me:
 - 🎍 I’m currently working with Angular.js
-- 🎓 I’m currently working as a Part Time Senior Software Developer in CyberWeb & Full Time SCADA Engineer in Olimps.lv
+- 🎓 I’m currently working as a Part Time Senior Software Developer in CyberWeb & Full Time SCADA Aveva Engineer in Olimps.lv
 - 💬 Ask me about Developing Software and I'll explain everything to You!
 - 📫 How to reach me: iivanou1208@gmail.com OR iivanou@inbox.lv
 - 🏃 Fun Fact: Participant of Google Kick Start since 2020 & Facebook Hacker Cup since 2020
