@@ -1,5 +1,4 @@
 require_relative './game'
-
 module Connect4
   class Ai
     def initialize(game:)
