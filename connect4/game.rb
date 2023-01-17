@@ -1,6 +1,7 @@
 require 'yaml'
 require_relative './invalid_move_error'
 
+
 module Connect4
   class Game
     RED = 'red'
