@@ -1,5 +1,3 @@
-## 👋 Hi / Hola there & Welcome to my GitHub/<a href="https://gitlab.com/janisivanoov">GitLab</a> profile!
-
 <pre>
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
@@ -17,9 +15,10 @@
 
 ![CodeWars Badge](https://www.codewars.com/users/g964/badges/micro) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-ivanou-janis/)](https://www.linkedin.com/in/ivan-ivanou-janis/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iivanou1208@gmail.com)](mailto:iivanou1208@gmail.com) 
 
+## 👋 Hi / Hola there & Welcome to my GitHub/<a href="https://gitlab.com/janisivanoov">GitLab</a> profile!
 ### 🚶 About Me:
-- 🎍 I’m currently working with Angular.js
-- 🎓 I’m currently working as a Part Time Senior Software Developer in CyberWeb & Full Time SCADA Aveva Engineer in Olimps.lv
+- 🎍 I’m currently working with IPSec, Modbus protocol
+- 🎓 I’m currently working as a Part Time Senior Software Developer in CyberWeb & Apprenticeship SCADA Aveva Engineer in Olimps.lv
 - 💬 Ask me about Developing Software and I'll explain everything to You!
 - 📫 How to reach me: iivanou1208@gmail.com OR iivanou@inbox.lv
 - 🏃 Fun Fact: Participant of Google Kick Start since 2020 & Facebook Hacker Cup since 2020
