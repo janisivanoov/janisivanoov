@@ -7,7 +7,7 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class SoftwareDeveloper:
 
     def __init__(self):
         self.name = "Iwan Iwanou / Ivan Ivanou"
@@ -21,7 +21,7 @@ class SoftwareEngineer:
         print("Fun Fact: Participant of Google Kick Start since 2020 & Facebook Hacker Cup since 2020")
 
 
-me = SoftwareEngineer()
+me = SoftwareDeveloper()
 me.say_hello(
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
