@@ -35,7 +35,7 @@ me.say_hello(
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
      
-)
+                                                               )
 ```
 
 ## :game_die: Join community Connect Four game!
