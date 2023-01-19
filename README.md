@@ -50,23 +50,25 @@ me.say_hello(
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 
-## :game_die: Join community Connect Four game!
-![](https://img.shields.io/badge/Moves%20played-5006-blue)
-![](https://img.shields.io/badge/Completed%20games-285-brightgreen)
-![](https://img.shields.io/badge/Total%20players-891-orange)
+## ♟️Feel Free to Play Chess there
 
-Everyone is welcome to participate! To make a move, click on the **column number** you wish to drop your disk in.
+|   | R | E | A | D | M | E |   |
+|---|---|---|---|---|---|---|---|
+| ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |
+| ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+| ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ |
+| ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
 
-Game over, the red team has won! [Click here to start a new game!](https://github.com/janisivanoov/janisivanoov/issues/new?title=connect4%7Cnew&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
 
-|1|2|3|4|5|6|7|
-| - | - | - | - | - | - | - |
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/main/images/blank.png)|
+# How to play
+
+Signify your willingness to play by forking https://github.com/benbarth/readme-chess.
+
+Start a new game by branching from a `template/*`. Games should follow this format: `game/<player1>-vs-<player2>`. Note: Player 1 is white and player 2 is black.
 
 ### ❄️ My Github Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janisivanoov&theme=dark)](https://git.io/streak-stats)
