@@ -12,26 +12,32 @@
      \/__/         \/__/         \/__/     \/__/     \/__/    
      
 </pre>
-
+## 👋 Hi / Hola there & Welcome to my GitHub/<a href="https://gitlab.com/janisivanoov">GitLab</a> profile!
 ![CodeWars Badge](https://www.codewars.com/users/g964/badges/micro) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-ivanou-janis/)](https://www.linkedin.com/in/ivan-ivanou-janis/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iivanou1208@gmail.com)](mailto:iivanou1208@gmail.com) 
 
-## 👋 Hi / Hola there & Welcome to my GitHub/<a href="https://gitlab.com/janisivanoov">GitLab</a> profile!
-### 🚶 About Me:
-- 🎍 I’m currently working with IPSec, Modbus protocol
-- 🎓 I’m currently working as a Part Time Senior Software Developer in CyberWeb & Apprenticeship SCADA Aveva Engineer in Olimps.lv
-- 💬 Ask me about Developing Software and I'll explain everything to You!
-- 📫 How to reach me: iivanou1208@gmail.com OR iivanou@inbox.lv
-- 🏃 Fun Fact: Participant of Google Kick Start since 2020 & Facebook Hacker Cup since 2020
-- ⚡ Looking for Job: Middle++/Senior Software Developer
-- 🎃 I was a: C# API Backend Software Developer, C++ Freelance Software Developer & Web3 Software Developer, Middle/Senior Software Develope & Team Leader
-- :octocat: GitHub Contributions: https://skyline.github.com/janisivanoov/2022
-- 👽 My<a href="https://aws-emergingtalent.influitive.com/profiles/5a84b765-28f6-420b-b099-2d15430d7511"> AWS Emerging Talent Community Profile</a>, <a href="https://www.upwork.com/freelancers/~01c4eca190f5879547">Upwork profile</a>, <a href="https://freelancehunt.com/applicant/y6BAx.html">Freelancehunt</a>, <a href="https://www.codewars.com/users/janisivanoov"> CodeWars </a>
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-### 🛠 Some Technologies I'm Using
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Iwan Iwanou / Ivan Ivanou"
+        self.role = "Software Developer"
+        self.language_spoken = ["en_US", "pl_PL"]
+
+    def say_hi(self):
+        print("I’m currently working with IPSec, Modbus protocol")
+        print("I’m currently working as a Part Time Senior Software Developer in CyberWeb & Apprenticeship SCADA Aveva Engineer in Olimps.lv")
+        print("How to reach me: iivanou1208@gmail.com OR iivanou@inbox.lv")
+        print("Fun Fact: Participant of Google Kick Start since 2020 & Facebook Hacker Cup since 2020")
+        print("My<a href="https://aws-emergingtalent.influitive.com/profiles/5a84b765-28f6-420b-b099-2d15430d7511"> AWS Emerging Talent Community Profile</a>, <a href="https://www.upwork.com/freelancers/~01c4eca190f5879547">Upwork profile</a>, <a href="https://freelancehunt.com/applicant/y6BAx.html">Freelancehunt</a>, <a href="https://www.codewars.com/users/janisivanoov"> CodeWars </a>")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 ## :game_die: Join community Connect Four game!
 ![](https://img.shields.io/badge/Moves%20played-5006-blue)
