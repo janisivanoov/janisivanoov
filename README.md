@@ -32,7 +32,6 @@ class SoftwareEngineer:
         print("I’m currently working as a Part Time Senior Software Developer in CyberWeb & Apprenticeship SCADA Aveva Engineer in Olimps.lv")
         print("How to reach me: iivanou1208@gmail.com OR iivanou@inbox.lv")
         print("Fun Fact: Participant of Google Kick Start since 2020 & Facebook Hacker Cup since 2020")
-        print("My<a href="https://aws-emergingtalent.influitive.com/profiles/5a84b765-28f6-420b-b099-2d15430d7511"> AWS Emerging Talent Community Profile</a>, <a href="https://www.upwork.com/freelancers/~01c4eca190f5879547">Upwork profile</a>, <a href="https://freelancehunt.com/applicant/y6BAx.html">Freelancehunt</a>, <a href="https://www.codewars.com/users/janisivanoov"> CodeWars </a>")
 
 
 me = SoftwareEngineer()
