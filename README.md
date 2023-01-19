@@ -16,7 +16,8 @@ class SoftwareDeveloper:
 
     def say_hi(self):
         print("Obecnie pracuję z protokołem IPSec, Modbus")
-        print("Obecnie pracuję jako Senior Software Deweloper w niepełnym wymiarze godzin w CyberWeb & Apprenticeship SCADA Aveva Inżynier w Olimps.lv")
+        print("Obecnie pracuję jako Senior Software Deweloper w niepełnym wymiarze godzin w CyberWeb")
+        print("Pracuję również jako praktykant SCADA Aveva Inżynier w Olimps.lv)
         print("Jak się ze mną skontaktować: iivanou1208@gmail.com LUB iivanou@inbox.lv")
         print("Ciekawostka: Uczestnik Google Kick Start od 2020 roku i Facebook Hacker Cup od 2020 roku")
 
