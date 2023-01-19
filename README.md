@@ -50,6 +50,7 @@ me.say_hello(
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 
+## ♟️ Feel Free to Play Chess
 **Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a white (hollow) piece.
 
 |   | A | B | C | D | E | F | G | H |
@@ -80,18 +81,6 @@ me.say_hello(
 | **G1** | [F3](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cg1f3%7C28444&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H3](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cg1h3%7C28444&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
 | **G2** | [G3](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cg2g3%7C28444&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [G4](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cg2g4%7C28444&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
 | **H2** | [H3](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ch2h3%7C28444&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H4](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ch2h4%7C28444&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-
-Ask a friend to take the next move: [Share on Twitter...](https://twitter.com/share?text=I'm+playing+chess+on+a+GitHub+Profile+Readme!+Can+you+please+take+the+next+move+at+https://github.com/timburgan)
-
-**How this works**
-
-When you click a link, it opens a GitHub Issue with the required pre-populated text. Just push "Create New Issue". That will trigger a [GitHub Actions](https://github.blog/2020-07-03-github-action-hero-casey-lee/#getting-started-with-github-actions) workflow that'll update my GitHub Profile _README.md_ with the new state of the board.
-
-**Notice a problem?**
-
-Raise an [issue](https://github.com/timburgan/timburgan/issues), and include the text _cc @timburgan_.
-
-**Last few moves, this game**
 
 ### ❄️ My Github Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janisivanoov&theme=dark)](https://git.io/streak-stats)
