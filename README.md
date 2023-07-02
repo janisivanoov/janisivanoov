@@ -1,4 +1,4 @@
-## 👋 Hi / Sveiki un laipni lūdzam manā GitHub/<a href="https://gitlab.com/iivanou1208">GitLab</a>/<a href="https://app.uxcel.com/ux/WVDJ3MN7V8RF">Uxcel</a> profilā!
+## 👋 Hi / Hei og velkommen til min GitHub/<a href="https://gitlab.com/iivanou1208">GitLab</a>/<a href="https://app.uxcel.com/ux/WVDJ3MN7V8RF">Uxcel</a> profilen!
 ![CodeWars Badge](https://www.codewars.com/users/g964/badges/micro) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-ivanou-janis/)](https://www.linkedin.com/in/ivan-ivanou-janis/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iivanou1208@gmail.com)](mailto:iivanou1208@gmail.com) 
 
 ```python
@@ -6,18 +6,18 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareDeveloper:
+class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Ivans Ivanou"
-        self.role = "Software Developer"
-        self.language_spoken = ["en_UK", "lv_LV"]
+        self.name = "Ivan (Ivans) Ivanou"
+        self.role = "Software Engineer"
+        self.language_spoken = ["en_UK", "no_NNO"]
 
     def say_hi(self):
-        print("Šobrīd apgūstu web dizaina pamatus!")
-        print("Es strādāju par Full Stack programmatūras izstrādātāju Hexens.io")
-        print("Mans e-pasts, lai sazinātos ar mani, ir: iivanou1208@gmail.com vai iivanou@inbox.lv")
-        print("Kopš 2020. gada esmu Google Kick Start un Facebook Hacker Cup sacensību dalībnieks")
+        print("Jeg lærer for tiden det grunnleggende om webdesign!")
+        print("Jeg jobber som Full Stack Software Developer på Hexens.io")
+        print("Min e-post for å kontakte meg er: iivanou1208@gmail.com eller iivanou@inbox.lv")
+        print("Siden 2020 har jeg vært deltaker i Google Kick Start- og Facebook Hacker Cup-konkurransene")
 
 
 me = SoftwareDeveloper()
