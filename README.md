@@ -1,4 +1,4 @@
-## 👋 Hi / Hei og velkommen til min GitHub/<a href="https://gitlab.com/iivanou1208">GitLab</a>/<a href="https://app.uxcel.com/ux/WVDJ3MN7V8RF">Uxcel</a> profilen!
+## 👋 Hi / Hei og velkommen til min GitHub/<a href="https://gitlab.com/iivanou1208">GitLab</a>/<a href="https://app.uxcel.com/ux/WVDJ3MN7V8RF">Uxcel</a>/<a href="https://hackerone.com/iivanou">HackerOne</a> profilen!
 ![CodeWars Badge](https://www.codewars.com/users/g964/badges/micro) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-ivanou-janis/)](https://www.linkedin.com/in/ivan-ivanou-janis/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iivanou1208@gmail.com)](mailto:iivanou1208@gmail.com) 
 
 ```python
