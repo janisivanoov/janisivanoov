@@ -6,7 +6,7 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class Ex_SoftwareEngineer:
 
     def __init__(self):
         self.name = "Ivan (Ivans) Ivanou"
@@ -14,11 +14,11 @@ class SoftwareEngineer:
         self.language_spoken = ["en_UK"]
 
     def say_hi(self):
-        print("My email to contact me is: iivanou1208@gmail.com or iivanou@inbox.lv")
-        print("Since 2020, I have been a participant in the Google Kick Start and Facebook Hacker Cup competitions")
+        print("My email to contact me is: iivanou.sub@gmail.com or iivanou@inbox.lv")
+        print("Since 2020 up until 2024, I have been a participant in the Google Kick Start and Facebook Hacker Cup competitions")
 
 
-me = SoftwareDeveloper()
+me = Ex_SoftwareDeveloper()
 me.say_hello(
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
