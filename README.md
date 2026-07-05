@@ -10,7 +10,6 @@ class Ex_SoftwareEngineer:
 
     def __init__(self):
         self.name = "Ivan (Ivans) Ivanou"
-        self.role = "Sales & Operations Manager"
         self.language_spoken = ["en_UK"]
 
     def say_hi(self):
